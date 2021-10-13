@@ -181,7 +181,7 @@ namespace moj_harness {
 			return verify_case(casenum__, expected__, received__, clock()-start__);
 		}*/
 		default:
-			return -1;
+			return 0;
 		}
 	}
 }
