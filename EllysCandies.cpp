@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long
+#define ll long long // This is for shorthand the data type
 #define pb push_back
 #define mp make_pair
 #define ve vector<long long>
